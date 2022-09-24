@@ -1,6 +1,7 @@
 ### homepage
 Xiao-Ming Fu: <https://ustc-gcl-f.github.io/>  
 Prof.Dr. Ligang Liu: <http://staff.ustc.edu.cn/~lgliu/>  
+Ke-Sen Huang: SIGGRAPH <http://kesen.realtimerendering.com/>  
 
 
 ### website
