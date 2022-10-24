@@ -3,6 +3,7 @@ Xiao-Ming Fu: <https://ustc-gcl-f.github.io/>
 Prof.Dr. Ligang Liu: <http://staff.ustc.edu.cn/~lgliu/>  
 Ke-Sen Huang: SIGGRAPH <http://kesen.realtimerendering.com/>  
 Keenan Crane: <http://www.cs.cmu.edu/~kmcrane/>  
+Bruno Lévy: <https://members.loria.fr/BLevy/>  
 
 
 ### website
