@@ -6,7 +6,6 @@ Bruno Lévy: <https://members.loria.fr/BLevy/>
 
 
 ### website
-GrabCad: <https://grabcad.com/library>  
 GAMES: Graphics And Mixed Environment Seminar <http://games-cn.org/>  
 REAL-TIME RENDERING: Graphics books, intersection, ray tracing, etc. <http://www.realtimerendering.com/intersections.html>  
 Gamma: Geomatric Algorithms for Modeling, Motion, and Animation <https://gamma.umd.edu/research>  
