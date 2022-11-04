@@ -3,12 +3,15 @@ Prof.Dr. Ligang Liu: <http://staff.ustc.edu.cn/~lgliu/>
 Ke-Sen Huang: SIGGRAPH <http://kesen.realtimerendering.com/>  
 Keenan Crane: <http://www.cs.cmu.edu/~kmcrane/>  
 Bruno Lévy: <https://members.loria.fr/BLevy/>  
+Jin Huang: <http://www.cad.zju.edu.cn/home/hj/index.xml>  
 
 
-### website
+### group
 GAMES: Graphics And Mixed Environment Seminar <http://games-cn.org/>  
 REAL-TIME RENDERING: Graphics books, intersection, ray tracing, etc. <http://www.realtimerendering.com/intersections.html>  
 Gamma: Geomatric Algorithms for Modeling, Motion, and Animation <https://gamma.umd.edu/research>  
+caltech: Geometry Lab <http://www.geometry.caltech.edu/pubs.html>  
+
 
 
 ### open source library
