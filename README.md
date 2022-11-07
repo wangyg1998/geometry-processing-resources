@@ -10,6 +10,7 @@ REAL-TIME RENDERING: Graphics books, intersection, ray tracing, etc. <http://www
 Gamma: Geomatric Algorithms for Modeling, Motion, and Animation <https://gamma.umd.edu/research>  
 Caltech: Geometry Lab <http://www.geometry.caltech.edu/pubs.html>  
 SIGGRAPH: <http://kesen.realtimerendering.com/>  
+IGL: Interactive Geometry Lab(ETH Zurich) <https://igl.ethz.ch/publications/>  
 
 
 ### open source library
