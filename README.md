@@ -2,6 +2,7 @@
 Prof.Dr. Ligang Liu: <http://staff.ustc.edu.cn/~lgliu/>  
 Keenan Crane: <http://www.cs.cmu.edu/~kmcrane/>  
 Bruno Lévy: <https://members.loria.fr/BLevy/>  
+Misha: <https://www.cs.jhu.edu/~misha/>
 
 
 ### group
