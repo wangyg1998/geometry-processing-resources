@@ -3,7 +3,8 @@ Prof.Dr. Ligang Liu: <http://staff.ustc.edu.cn/~lgliu/>
 Keenan Crane: <http://www.cs.cmu.edu/~kmcrane/>  
 Bruno Lévy: <https://members.loria.fr/BLevy/>  
 Misha: <https://www.cs.jhu.edu/~misha/>  
-
+ravir: <https://cseweb.ucsd.edu/~ravir/>  
+c2batty: <https://cs.uwaterloo.ca/~c2batty/>  
 
 ### group
 GAMES: Graphics And Mixed Environment Seminar <http://games-cn.org/>  
