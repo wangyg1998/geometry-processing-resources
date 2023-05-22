@@ -2,7 +2,7 @@
 Prof.Dr. Ligang Liu: <http://staff.ustc.edu.cn/~lgliu/>  
 Keenan Crane: <http://www.cs.cmu.edu/~kmcrane/>  
 Bruno Lévy: <https://members.loria.fr/BLevy/>  
-Misha: <https://www.cs.jhu.edu/~misha/>
+Misha: <https://www.cs.jhu.edu/~misha/>  
 
 
 ### group
@@ -12,6 +12,7 @@ Gamma: Geomatric Algorithms for Modeling, Motion, and Animation <https://gamma.u
 Caltech: Geometry Lab <http://www.geometry.caltech.edu/pubs.html>  
 SIGGRAPH: <http://kesen.realtimerendering.com/>  
 IGL: Interactive Geometry Lab(ETH Zurich) <https://igl.ethz.ch/publications/>  
+NYU: Geometric Computing Lab <https://cims.nyu.edu/gcl/publications.html>  
 
 
 ### open source library
