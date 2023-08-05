@@ -17,7 +17,6 @@ IGL: Interactive Geometry Lab(ETH Zurich) <https://igl.ethz.ch/publications/>
 NYU: Geometric Computing Lab <https://cims.nyu.edu/gcl/publications.html>  
 
 ## open source algorithm
-Clipper: clipping and offsetting lines and polygons <http://www.angusj.com/delphi/clipper.php>  
 Bilateral Filter for Point Clouds: <https://www.ipol.im/pub/art/2017/179/>  
 Unconditionally Stable Shock Filters for Image and Geometry Processing: <https://www.cs.jhu.edu/~misha/Code/AdvectionSharpening/>  
 Thickening: A Library for General Mesh Offsetting <https://mewangcl.github.io/Projects/MeshThickeningProj.htm>  
@@ -30,3 +29,5 @@ thread-pool: <https://github.com/mtrebi/thread-pool>
 thrust: <https://github.com/NVIDIA/thrust>  
 oneTBB: <https://github.com/oneapi-src/oneTBB>  
 dkm: <https://github.com/genbattle/dkm>  
+Clipper2: <http://www.angusj.com/clipper2/Docs/Overview.htm>  
+
