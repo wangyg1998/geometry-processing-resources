@@ -22,12 +22,15 @@ Unconditionally Stable Shock Filters for Image and Geometry Processing: <https:/
 Thickening: A Library for General Mesh Offsetting <https://mewangcl.github.io/Projects/MeshThickeningProj.htm>  
 
 ## third party library
-FreeType: render fonts <https://freetype.org/>  
+FreeType: software library to render fonts <https://freetype.org/>  
 suitesparse-metis-for-windows: <https://github.com/jlblancoc/suitesparse-metis-for-windows>  
-ceres-solver: <https://github.com/ceres-solver/ceres-solver>  
+ceres-solver: A large scale non-linear optimization library <https://github.com/ceres-solver/ceres-solver>  
 thread-pool: <https://github.com/mtrebi/thread-pool>  
-thrust: <https://github.com/NVIDIA/thrust>  
+thrust: The C++ parallel algorithms library <https://github.com/NVIDIA/thrust>  
 oneTBB: <https://github.com/oneapi-src/oneTBB>  
-dkm: <https://github.com/genbattle/dkm>  
-Clipper2: <http://www.angusj.com/clipper2/Docs/Overview.htm>  
+dkm: A generic C++11 k-means clustering implementation <https://github.com/genbattle/dkm>  
+Clipper2: Polygon Clipping and Offsetting Library <http://www.angusj.com/clipper2/Docs/Overview.htm>  
+poly2tri: 2D constrained Delaunay triangulation library <https://github.com/jhasse/poly2tri>  
+opencv: Open Source Computer Vision Library <https://github.com/opencv/opencv>  
+gmp: arbitrary precision arithmetic library <https://github.com/ShiftMediaProject/gmp>  
 
