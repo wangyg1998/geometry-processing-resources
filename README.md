@@ -31,6 +31,8 @@ oneTBB: <https://github.com/oneapi-src/oneTBB>
 dkm: A generic C++11 k-means clustering implementation <https://github.com/genbattle/dkm>  
 Clipper2: Polygon Clipping and Offsetting Library <http://www.angusj.com/clipper2/Docs/Overview.htm>  
 poly2tri: 2D constrained Delaunay triangulation library <https://github.com/jhasse/poly2tri>  
-opencv: Open Source Computer Vision Library <https://github.com/opencv/opencv>  
+opencv: <https://github.com/opencv/opencv>  
 gmp: arbitrary precision arithmetic library <https://github.com/ShiftMediaProject/gmp>  
+Boost: <https://www.boost.org/>  
+eigen: <https://gitlab.com/libeigen/eigen>  
 
