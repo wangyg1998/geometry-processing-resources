@@ -6,6 +6,7 @@ Misha: <https://www.cs.jhu.edu/~misha/>
 ravir: <https://cseweb.ucsd.edu/~ravir/>  
 c2batty: <https://cs.uwaterloo.ca/~c2batty/>  
 smr: <https://www.cs.princeton.edu/~smr/>  
+Michael Garland: <https://mgarland.org/>  
 
 ## group
 GAMES: Graphics And Mixed Environment Seminar <http://games-cn.org/>  
@@ -35,4 +36,5 @@ opencv: <https://github.com/opencv/opencv>
 gmp: arbitrary precision arithmetic library <https://github.com/ShiftMediaProject/gmp>  
 Boost: <https://www.boost.org/>  
 eigen: <https://gitlab.com/libeigen/eigen>  
+parallel-hashmap: <https://github.com/greg7mdp/parallel-hashmap>  
 
