@@ -8,6 +8,7 @@ c2batty: <https://cs.uwaterloo.ca/~c2batty/>
 smr: <https://www.cs.princeton.edu/~smr/>  
 Michael Garland: <https://mgarland.org/>  
 Hugues Hoppe: <https://hhoppe.com/>  
+janba: <https://people.compute.dtu.dk/janba/>  
 
 ## group
 GAMES: Graphics And Mixed Environment Seminar <http://games-cn.org/>  
