@@ -9,14 +9,14 @@ Hugues Hoppe: <https://hhoppe.com/>
 janba: <https://people.compute.dtu.dk/janba/>  
 
 ## group
+Lab: <https://www.google.com/search?q=geometry+processing+lab>  
 GAMES: Graphics And Mixed Environment Seminar <http://games-cn.org/>  
-REAL-TIME RENDERING: Graphics books, intersection, ray tracing, etc. <http://www.realtimerendering.com/intersections.html>  
 Gamma: Geomatric Algorithms for Modeling, Motion, and Animation <https://gamma.umd.edu/research>  
+SIGGRAPH: <https://kesen.realtimerendering.com/>  
+REAL-TIME RENDERING: Graphics books, intersection, ray tracing, etc. <https://www.realtimerendering.com/portal.html>  
 Caltech: Geometry Lab <http://www.geometry.caltech.edu/pubs.html>  
-SIGGRAPH: <http://kesen.realtimerendering.com/>  
 IGL: Interactive Geometry Lab(ETH Zurich) <https://igl.ethz.ch/publications/>  
 NYU: Geometric Computing Lab <https://cims.nyu.edu/gcl/publications.html>  
-Lab: <https://www.google.com/search?q=geometry+processing+lab>  
 
 ## open source algorithm
 Bilateral Filter for Point Clouds: <https://www.ipol.im/pub/art/2017/179/>  
