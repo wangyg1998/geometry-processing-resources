@@ -3,8 +3,6 @@ Prof.Dr. Ligang Liu: <http://staff.ustc.edu.cn/~lgliu/>
 Keenan Crane: <http://www.cs.cmu.edu/~kmcrane/>  
 Bruno Lévy: <https://brunolevy.github.io/>  
 Misha: <https://www.cs.jhu.edu/~misha/>  
-ravir: <https://cseweb.ucsd.edu/~ravir/>  
-c2batty: <https://cs.uwaterloo.ca/~c2batty/>  
 smr: <https://www.cs.princeton.edu/~smr/>  
 Michael Garland: <https://mgarland.org/>  
 Hugues Hoppe: <https://hhoppe.com/>  
