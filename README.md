@@ -7,12 +7,12 @@ smr: <https://www.cs.princeton.edu/~smr/>
 Michael Garland: <https://mgarland.org/>  
 Hugues Hoppe: <https://hhoppe.com/>  
 janba: <https://people.compute.dtu.dk/janba/>  
+kesen: <https://kesen.realtimerendering.com/>  
 
 ## group
 Lab: <https://www.google.com/search?q=geometry+processing+lab>  
 GAMES: Graphics And Mixed Environment Seminar <http://games-cn.org/>  
 Gamma: Geomatric Algorithms for Modeling, Motion, and Animation <https://gamma.umd.edu/research>  
-SIGGRAPH: <https://kesen.realtimerendering.com/>  
 REAL-TIME RENDERING: Graphics books, intersection, ray tracing, etc. <https://www.realtimerendering.com/portal.html>  
 Caltech: Geometry Lab <http://www.geometry.caltech.edu/pubs.html>  
 IGL: Interactive Geometry Lab(ETH Zurich) <https://igl.ethz.ch/publications/>  
