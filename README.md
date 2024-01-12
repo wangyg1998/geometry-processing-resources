@@ -24,6 +24,7 @@ Unconditionally Stable Shock Filters for Image and Geometry Processing: <https:/
 Thickening: A Library for General Mesh Offsetting <https://mewangcl.github.io/Projects/MeshThickeningProj.htm>  
 
 ## third party library
+vcpkg: automatic build and install open source library <https://github.com/microsoft/vcpkg>  
 FreeType: software library to render fonts <https://freetype.org/>  
 suitesparse-metis-for-windows: <https://github.com/jlblancoc/suitesparse-metis-for-windows>  
 ceres-solver: A large scale non-linear optimization library <https://github.com/ceres-solver/ceres-solver>  
