@@ -29,7 +29,7 @@ FreeType: software library to render fonts <https://freetype.org/>
 suitesparse-metis-for-windows: <https://github.com/jlblancoc/suitesparse-metis-for-windows>  
 ceres-solver: A large scale non-linear optimization library <https://github.com/ceres-solver/ceres-solver>  
 thread-pool: <https://github.com/mtrebi/thread-pool>  
-thrust: The C++ parallel algorithms library <https://github.com/NVIDIA/thrust>  
+cccl: CUDA C++ Core Libraries <https://github.com/NVIDIA/cccl>  
 oneTBB: <https://github.com/oneapi-src/oneTBB>  
 dkm: A generic C++11 k-means clustering implementation <https://github.com/genbattle/dkm>  
 Clipper2: Polygon Clipping and Offsetting Library <http://www.angusj.com/clipper2/Docs/Overview.htm>  
