@@ -22,18 +22,12 @@ Thickening: A Library for General Mesh Offsetting <https://mewangcl.github.io/Pr
 
 ## third party library
 vcpkg: automatic build and install open source library <https://github.com/microsoft/vcpkg>  
-FreeType: software library to render fonts <https://freetype.org/>  
+eigen: <https://gitlab.com/libeigen/eigen>  
+Boost: <https://www.boost.org/>  
+opencv: <https://github.com/opencv/opencv>  
+parallel-hashmap: <https://github.com/greg7mdp/parallel-hashmap>  
 suitesparse-metis-for-windows: <https://github.com/jlblancoc/suitesparse-metis-for-windows>  
 ceres-solver: A large scale non-linear optimization library <https://github.com/ceres-solver/ceres-solver>  
-thread-pool: <https://github.com/mtrebi/thread-pool>  
-cccl: CUDA C++ Core Libraries <https://github.com/NVIDIA/cccl>  
-oneTBB: <https://github.com/oneapi-src/oneTBB>  
-dkm: A generic C++11 k-means clustering implementation <https://github.com/genbattle/dkm>  
+FreeType: software library to render fonts <https://freetype.org/>  
 Clipper2: Polygon Clipping and Offsetting Library <http://www.angusj.com/clipper2/Docs/Overview.htm>  
 poly2tri: 2D constrained Delaunay triangulation library <https://github.com/jhasse/poly2tri>  
-opencv: <https://github.com/opencv/opencv>  
-gmp: arbitrary precision arithmetic library <https://github.com/ShiftMediaProject/gmp>  
-Boost: <https://www.boost.org/>  
-eigen: <https://gitlab.com/libeigen/eigen>  
-parallel-hashmap: <https://github.com/greg7mdp/parallel-hashmap>  
-
