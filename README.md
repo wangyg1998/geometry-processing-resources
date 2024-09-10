@@ -8,6 +8,7 @@ Michael Garland: <https://mgarland.org/>
 Hugues Hoppe: <https://hhoppe.com/>  
 janba: <https://people.compute.dtu.dk/janba/>  
 kesen: <https://kesen.realtimerendering.com/>  
+Xiao-Ming Fu: <https://ustc-gcl-f.github.io/>
 
 ## group
 Lab: <https://www.google.com/search?q=geometry+processing+lab>  
