@@ -11,7 +11,6 @@ kesen: <https://kesen.realtimerendering.com/>
 Xiao-Ming Fu: <https://ustc-gcl-f.github.io/>
 
 ## group
-Lab: <https://www.google.com/search?q=geometry+processing+lab>  
 GAMES: Graphics And Mixed Environment Seminar <http://games-cn.org/>  
 Gamma: Geomatric Algorithms for Modeling, Motion, and Animation <https://gamma.umd.edu/research>  
 REAL-TIME RENDERING: Graphics books, intersection, ray tracing, etc. <https://www.realtimerendering.com/portal.html>  
